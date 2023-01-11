@@ -4,7 +4,7 @@ nav.navbar.navbar-expand-lg.navbar-light.bg-light{
         overflow: hidden;
         top: 0;
         z-index: 9;
-        width: -webkit-fill-available;
+        width: 100%;
     
 }
 .card-body {
